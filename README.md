@@ -3,20 +3,30 @@
 In Teachers Record Management System we use PHP and MySQL database. This 
 is the project which keeps record of Teachers. Teachers Record Management 
 System has two modules i.e., admin and user module.
+
 • Dashboard: In this section admin can briefly view total number of subjects 
-and total number of teachers.
+  and total number of teachers.
+
 • Subjects: In this section, admin can manage the Subjects (add/update).
+
 • Teachers: In this section, admin can add new teachers and manage the 
-details of old teachers.
+  details of old teachers.
+
 • Search: In this section, admin can search teachers by using teacher name.
+
 • Report: In this section, admin can view number of teachers added in the 
-particular period of time.
+  particular period of time.
+
 • Profile: In this section, admin can update his/her profile.
+
 • Change Password: In this section, admin can change his/her own
-passwords.
+  passwords.
+
 • Logout: Through this button admin can logout.
+
 • Forgot Password: In this section, admin can reset his/her password by 
-using registered email id and contact number.
+  using registered email id and contact number.
+
 • Users: User can search for the teacher online by entering the subject name.
 
 ## SCREENSHOTS
